@@ -4,7 +4,7 @@ A Streamlit application that lets users upload a PDF and search for relevant pas
 
 ## Architecture
 
-![AskMyPDF Architecture]([askmyPdf%20Architechture.png](https://github.com/Venu-16/AskMyPdf/blob/main/askmyPdf%20Architechture.png))
+![AskMyPDF Architecture](https://github.com/Venu-16/AskMyPdf/blob/main/askmyPdf%20Architechture.png)
 
 ## Workflow
 
